@@ -1,0 +1,16 @@
+name: SeasonCoin
+version: '${project.version}'
+main: net.kormons.seasoncoin.SeasonCoin
+api-version: 1.18
+authors: [ KorMons ]
+commands:
+  코인셋업:
+    description: 코인셋업
+  코인확인:
+    description: 코인확인
+  코인설정:
+    description: 코인설정
+  코인추가:
+    description: 코인추가
+  코인삭제:
+    description: 코인삭제
